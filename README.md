@@ -1,4 +1,4 @@
-# Video-Prediction-using-PyTorch
+# Video-Prediction-using-PyTorch-Lightning
 ![Alt Text](/images/mnist_gif.gif)
 Repository for frame prediction on the MovingMNIST dataset using seq2seq ConvLSTM.
 
